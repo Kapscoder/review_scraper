@@ -1,0 +1,1 @@
+# Scrapers package for SaaS review scraper
